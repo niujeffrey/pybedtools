@@ -12,6 +12,8 @@ Overview
 
 .. image:: https://img.shields.io/badge/BED%20Parser-BED3%20%7C%20BED4%20%7C%20BED6-informational
 
+.. image:: https://img.shields.io/badge/BED3--BED6-0.69%25-yellow
+
 The `BEDTools suite of programs <http://bedtools.readthedocs.org/>`_ is widely
 used for genomic interval manipulation or "genome algebra".  `pybedtools` wraps
 and extends BEDTools and offers feature-level manipulations from within
