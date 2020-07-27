@@ -11,7 +11,10 @@ Overview
     :target: http://bioconda.github.io
 
 .. image:: https://img.shields.io/badge/BED%20Parser-BED3%20%7C%20BED4%20%7C%20BED6-informational
+    :target: http://google.com
+
 .. image:: https://img.shields.io/badge/BED3--BED6-69%25-yellow
+    :target: http://google.com
 
 The `BEDTools suite of programs <http://bedtools.readthedocs.org/>`_ is widely
 used for genomic interval manipulation or "genome algebra".  `pybedtools` wraps
